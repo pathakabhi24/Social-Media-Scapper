@@ -3,13 +3,6 @@
 > These are the collections of scripts that scrape's social media profiles
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-
-
-
-
 
 
 ## Available Social Media
@@ -56,15 +49,7 @@
 - [selenium](https://selenium-python.readthedocs.io/installation.html)
 - [fake-headers](https://pypi.org/project/fake-headers/)   
 - [wedriver_manager](https://pypi.org/project/webdriver-manager/)
-
-
-## Screenshot
-![](screenshot/output.png)
-
-
-## LICENSE 
-
-### Apache License 2.0                                 
+                                 
 
 **If You have suggestions for more social media. Let me know :wink:**
 
